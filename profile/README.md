@@ -6,7 +6,7 @@
 - 🌱 We're currently learning **How to breathe**
 - 💬 Ask us about **what the project is about**
 - 📫 How to reach us **hello@creeperhub.net**
-- 👨‍💻 All of our projects are available at **[Github / creepercraftoff](https://github.com/creepercraftnet)**
+- 👨‍💻 All of our projects are available at **[Github / @creepercraftnet](https://github.com/creepercraftnet)**
 - 📝We write articles on **X (ex Twitter)** [here](https://twitter.com/creepercraftfun)
 - 📄 Know about our experiences [here](https://nohello.net) lol
 -  [![img](https://custom-icon-badges.demolab.com/badge/powered_by-CreeperHUB-white.svg?logo=creeperhub&logoColor=white)](https://creeperhub.net)
